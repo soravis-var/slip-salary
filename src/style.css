@@ -1,0 +1,16 @@
+.modal-backdrop
+{
+    opacity:0.1 !important;
+}
+
+.centered {
+    height: 90vh; /* Magic here */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Style the active class (and buttons on mouse-over) */
+  .active{
+    color: green;
+  }
